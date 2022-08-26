@@ -1,2 +1,5 @@
-# AR GEO Mushroom Gathering Game
-## Alex Lamarche
+# AR GEO Game Template
+Alex Lamarche
+
+
+### downloads
