@@ -4,8 +4,7 @@
 #
 
 # Don't add custom
-/ArGeoGame/Temp/UnityLockfile/*
-
+/Temp/UnityLockfile/*
 
 /[Pp]ackages/
 /[Ll]ibrary/
@@ -72,8 +71,8 @@ sysinfo.txt
 crashlytics-build.properties
 
 # Packed Addressables
-/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/ArGeoGame/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Temporary auto-generated Android Assets
-/[Aa]ssets/[Ss]treamingAssets/aa.meta
-/[Aa]ssets/[Ss]treamingAssets/aa/*
+/ArGeoGame/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/ArGeoGame/[Aa]ssets/[Ss]treamingAssets/aa/*
