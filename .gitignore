@@ -6,15 +6,15 @@
 # Don't add custom
 /Temp/UnityLockfile/*
 
-/[Pp]ackages/
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
-/[Pp]rojectSettings/
+/ArGeoGame/[Pp]ackages/
+/ArGeoGame/[Ll]ibrary/
+/ArGeoGame/[Tt]emp/
+/ArGeoGame/[Oo]bj/
+/ArGeoGame/[Bb]uild/
+/ArGeoGame/[Bb]uilds/
+/ArGeoGame/[Ll]ogs/
+/ArGeoGame/[Uu]ser[Ss]ettings/
+/ArGeoGame/[Pp]rojectSettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
