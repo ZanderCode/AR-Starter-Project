@@ -2,6 +2,12 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+
+# Don't add custom
+/ArGeoGame/Temp/UnityLockfile/*
+
+
+/[Pp]ackages/
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
